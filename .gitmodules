@@ -1,0 +1,39 @@
+[submodule "vendor/github.com/blang/semver"]
+	path = vendor/github.com/blang/semver
+	url = https://github.com/blang/semver
+[submodule "vendor/github.com/davecgh/go-spew"]
+	path = vendor/github.com/davecgh/go-spew
+	url = https://github.com/davecgh/go-spew
+[submodule "vendor/github.com/exercism/cli"]
+	path = vendor/github.com/exercism/cli
+	url = https://github.com/exercism/cli
+[submodule "vendor/github.com/google/uuid"]
+	path = vendor/github.com/google/uuid
+	url = https://github.com/google/uuid
+[submodule "vendor/github.com/hashicorp/errwrap"]
+	path = vendor/github.com/hashicorp/errwrap
+	url = https://github.com/hashicorp/errwrap
+[submodule "vendor/github.com/hashicorp/go-multierror"]
+	path = vendor/github.com/hashicorp/go-multierror
+	url = https://github.com/hashicorp/go-multierror
+[submodule "vendor/github.com/inconshreveable/go-update"]
+	path = vendor/github.com/inconshreveable/go-update
+	url = https://github.com/inconshreveable/go-update
+[submodule "vendor/github.com/inconshreveable/mousetrap"]
+	path = vendor/github.com/inconshreveable/mousetrap
+	url = https://github.com/inconshreveable/mousetrap
+[submodule "vendor/github.com/pmezard/go-difflib"]
+	path = vendor/github.com/pmezard/go-difflib
+	url = https://github.com/pmezard/go-difflib
+[submodule "vendor/github.com/spf13/cobra"]
+	path = vendor/github.com/spf13/cobra
+	url = https://github.com/spf13/cobra
+[submodule "vendor/github.com/spf13/pflag"]
+	path = vendor/github.com/spf13/pflag
+	url = https://github.com/spf13/pflag
+[submodule "vendor/github.com/stretchr/testify"]
+	path = vendor/github.com/stretchr/testify
+	url = https://github.com/stretchr/testify
+[submodule "vendor/gopkg.in/yaml.v2"]
+	path = vendor/gopkg.in/yaml.v2
+	url = https://gopkg.in/yaml.v2
